@@ -827,6 +827,11 @@ lowercase-keys@^2.0.0:
   resolved "https://registry.yarnpkg.com/lowercase-keys/-/lowercase-keys-2.0.0.tgz#2603e78b7b4b0006cbca2fbcc8a3202558ac9479"
   integrity sha512-tqNXrS78oMOE73NMxK4EMLQsQowWf8jKooH9g7xPavRT706R6bkQJ6DY2Te7QukaZsulxa30wQ7bk0pm4XiHmA==
 
+lsof@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/lsof/-/lsof-0.1.0.tgz#ac02d4d87606201f1364bafb15c491cfd5ae3092"
+  integrity sha1-rALU2HYGIB8TZLr7FcSRz9WuMJI=
+
 make-dir@^3.0.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/make-dir/-/make-dir-3.1.0.tgz#415e967046b3a7f1d185277d84aa58203726a13f"
